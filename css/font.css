@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Halis GR';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Regular'), url('../font/Ahmet\ Altun\ \ HalisGRRegular.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Regular Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Regular Italic'), url('../font/Ahmet\ Altun\ \ HalisGRRegularItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Book';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Book'), url('../font/Altun  HalisGRBook.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Book Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Book Italic'), url('../font/Altun  HalisGRBookItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Thin'), url('../font/Ahmet\ Altun\ \ HalisGRThin.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Thin Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Thin Italic'), url('../font/Altun  HalisGRThinItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR ExtraLight';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR ExtraLight'), url('../font/Altun  HalisGRExtraLight.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR ExtraLight Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR ExtraLight Italic'), url('../font/Altun  HalisGRExtraLightItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Light'), url('../font/Altun  HalisGRLight.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Light Italic'), url('../font/Altun  HalisGRLightItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Medium'), url('../font/Altun  HalisGRMedium.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Medium Italic'), url('../font/Altun  HalisGRMediumItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Bold'), url('../font/Altun  HalisGRBold.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Bold Italic'), url('../font/Altun  HalisGRBoldItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Black'), url('../font/Ahmet\ Altun\ \ HalisGRBlack.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Halis GR Black Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halis GR Black Italic'), url("../font/Ahmet\ Altun\ \ HalisGRBlackItalic.woff") format('woff');
+    }

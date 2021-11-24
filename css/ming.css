@@ -1,0 +1,27 @@
+.gnb{
+    position: absolute;
+    top: 90px;
+    right: 200px;
+    color: #fff;
+    display: flex;
+}
+.gnb li{
+    margin: 0 20px;
+    scale: 1.2;
+}
+.gnb > li:hover{
+    color: red;
+    transform: scale(1.2);
+    transition: 0.5s;
+    font-weight: bold;
+}
+.gnb .up{
+    display: none;
+}
+.gnb .sub{
+    margin-top: 25px;
+    display: none;
+}
+.gnb .sub li{
+    margin: 10px 0;
+}
